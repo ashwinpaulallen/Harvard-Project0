@@ -7,7 +7,8 @@ h2 {
 }
 body {
     background-image: url("../resources/bg.jpg");
-    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #content{
