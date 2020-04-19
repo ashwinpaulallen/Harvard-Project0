@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2 {
+    margin-left: 20px;
+}
+body {
+    background-color: whitesmoke;
+}
+
+#content{
+    border: 1px solid blue;
+    margin: 20px;
+    border-spacing: 20px 10px;
+}
+#typTable {
+    width: 100%;
+    border: 1px solid  black;
+    border-spacing: 5px;
+}
+td {
+    border: 1px solid  black;
+    border-spacing: 5px;
+}
+.summary {
+    font-size: 28px;
+    padding: 20px;
+    text-align: justify;
+}
+
+@media(max-width: 800px) {
+    p img {
+        display: none;
+    }
+}
