@@ -6,7 +6,8 @@ h2 {
     margin-left: 20px;
 }
 body {
-    background-color: whitesmoke;
+    background-image: url("../resources/bg.jpg");
+    background-size: cover;
 }
 
 #content{
